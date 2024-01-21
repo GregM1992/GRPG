@@ -36,7 +36,7 @@ List<CharacterClass> characterClasses = new()
         Attack = 5,
         Defense = 6,
         AttackSpeed = 10,
-        Magic = 2,
+        Magic = 1,
     }
 };
 
